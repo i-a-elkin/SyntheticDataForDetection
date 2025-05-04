@@ -1,0 +1,6 @@
+names:
+- ship
+nc: 1
+test: ./dataset/test/images
+train: ./dataset/train/images
+val: ./dataset/val/images

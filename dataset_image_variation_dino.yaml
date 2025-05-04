@@ -1,0 +1,6 @@
+names:
+- ship
+nc: 1
+test: ./dataset/test/images
+train: ./dataset/image_variation_dino/images
+val: ./dataset/val/images
